@@ -1,10 +1,10 @@
 #!/bin/bash
 
 DOT_HOLD=0.26
-DASH_HOLD=0.40
+DASH_HOLD=0.33
 BETWEEN_SYMBOLS=0.23
-LETTER_FREEZE=0.8
-WORD_PAUSE=1.4
+LETTER_FREEZE=1.05
+WORD_PAUSE=1.3
 
 declare -A morse=(
     [A]=".-" [B]="-..." [C]="-.-." [D]="-.." [E]="." [F]="..-." [G]="--."
