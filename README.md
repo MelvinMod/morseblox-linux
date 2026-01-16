@@ -11,3 +11,4 @@ sudo chmod +x morseblox.sh
 ```bash
 ./morseblox.sh "your message is in quotes"
 ```
+4. open Sober and wait 3 seconds
