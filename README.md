@@ -1,6 +1,9 @@
 # morseblox-linux
 Type to convert English into Morse code while interacting with others on Sober (Roblox)
 
+# WARNING
+this is using the legacy method of morse code, legacy means old (2012) original way, there is one [game](https://www.roblox.com/games/72977384690398/Morse-Code-Trainer) that supports only newer morse code method instead of old (legacy) one, so, don't expect this script to work in that game
+
 # Reasons why I did that
 https://youtu.be/xuNdSNuraeQ
 
