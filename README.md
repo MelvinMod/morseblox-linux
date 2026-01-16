@@ -1,6 +1,9 @@
 # morseblox-linux
 Type to convert English into Morse code while interacting with others on Sober (Roblox)
 
+# Reasons why I did that
+(video soon)
+
 # Tutorial
 1. install `xdotool` using you package manager (on Arch Linux and EndeavourOS it is `pacman`)
 2. unblock `.sh` file
@@ -12,3 +15,6 @@ sudo chmod +x morseblox.sh
 ./morseblox.sh "your message is in quotes"
 ```
 4. open Sober and wait 3 seconds
+
+# Video tutorial
+https://youtu.be/7q06_t61xE4
