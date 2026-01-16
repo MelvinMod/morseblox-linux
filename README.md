@@ -5,7 +5,7 @@ Type to convert English into Morse code while interacting with others on Sober (
 https://youtu.be/xuNdSNuraeQ
 
 # Tutorial
-1. install `xdotool` using you package manager (on Arch Linux and EndeavourOS it is `pacman`)
+1. install `xdotool` using your package manager (on Arch Linux and EndeavourOS it is `pacman`)
 2. unblock `.sh` file
 ```bash
 sudo chmod +x morseblox.sh
